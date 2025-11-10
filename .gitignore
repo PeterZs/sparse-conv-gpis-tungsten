@@ -1,0 +1,4 @@
+data/gpis-scenes/
+results/
+cmake-*/
+.idea/
