@@ -29,7 +29,7 @@ Finally, `src/core/math/GPFunctions.cpp` contains the implementation of various 
 
 # Scene Files
 
-We provide the JSON scene files on [Google Drive](https://drive.google.com/file/d/1rj5XVC-7vNo51AC5OR6QDfJPsvYmU_JE/view?usp=sharing) that reproduce the results presented in the paper. Some scene files include multiple rendering configurations, where only one is active while the others are commented out and annotated for clarity.
+We provide the JSON scene files on [Google Drive](https://drive.google.com/file/d/1nzmRUxxPsP5bIgX6SrOjjc0_664KtQgQ/view?usp=sharing) that reproduce the results presented in the paper. Some scene files include multiple rendering configurations, where only one is active while the others are commented out and annotated for clarity.
 
 Additionally, the rendered results are available through an interactive viewer on the project webpage.
 
